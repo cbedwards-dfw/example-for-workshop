@@ -1,1 +1,1 @@
-cat("Greetings")
+10*5
